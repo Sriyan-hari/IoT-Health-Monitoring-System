@@ -26,11 +26,6 @@ This project is a real-time health monitoring system using ESP32 and multiple se
 ### 🎥 Demo Video:
 👉 [Watch Video](media/demo_video.mp4)
 
-### 🖼️ System Diagram:
-![System Diagram](media/system_diagram.png)
-
----
-
 ## 📄 Documentation
 
 📥 [Download Project Report (PDF)](Project_Report.pdf)
