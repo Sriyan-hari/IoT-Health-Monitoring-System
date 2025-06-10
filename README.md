@@ -36,3 +36,32 @@ IoT-Health-Monitoring-System/
 │   └── system_diagram.png
 ├── Project_Report.pdf
 ├── README.md
+```
+
+---
+
+## 📸 Media
+
+### 🎥 Demo Video:
+👉 [Watch Video](media/demo_video.mp4)
+
+### 🖼️ System Diagram:
+![System Diagram](media/system_diagram.png)
+
+---
+
+## 📄 Documentation
+
+📥 [Download Project Report (PDF)](Project_Report.pdf)
+
+---
+
+## 🙋‍♂️ Author
+
+**Hariprasad Mishra**  
+IoT Developer | Web Enthusiast  
+📧 Connect with me on [LinkedIn](https://www.linkedin.com) *(optional)*
+
+---
+
+> ⭐ If you like this project, give it a star!
