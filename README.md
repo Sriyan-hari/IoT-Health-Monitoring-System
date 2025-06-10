@@ -21,25 +21,6 @@ This project is a real-time health monitoring system using ESP32 and multiple se
 
 ---
 
-## 📂 Folder Structure
-
-```bash
-IoT-Health-Monitoring-System/
-├── code/
-│   ├── ESP32_Code.ino
-│   └── web_dashboard/
-│       ├── index.html
-│       ├── script.js
-│       └── style.css
-├── media/
-│   ├── demo_video.mp4
-│   └── system_diagram.png
-├── Project_Report.pdf
-├── README.md
-```
-
----
-
 ## 📸 Media
 
 ### 🎥 Demo Video:
