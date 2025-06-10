@@ -41,7 +41,7 @@ This project is a real-time health monitoring system using ESP32 and multiple se
 
 **Hariprasad Mishra**  
 IoT Developer | Web Enthusiast  
-📧 Connect with me on [LinkedIn](www.linkedin.com/in/hariprasad-mishra-895315309) 
+📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/hariprasad-mishra-895315309)
 
 ---
 
