@@ -30,16 +30,14 @@ An IoT-based real-time health monitoring system that continuously tracks and rep
 
 ## 📸 Media
 
-### 🎥 Demo Video  
-🎥 Demo Video:  
+🎥 **Demo Video**  
 👉 [Watch Video on YouTube](https://youtu.be/Ii8fNT2XxG4?si=7a9ONTLjAG783BIK)
 
 ---
 
 ## 📄 Documentation
 
-📥 [Download Project Report (PDF)](./docs/Health_monitoring_using_IoT..pdf)
-
+📥 [Download Project Report (PDF)](./docs/Health_monitoring_using_IoT.pdf)
 
 ---
 
