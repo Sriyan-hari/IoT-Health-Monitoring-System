@@ -24,7 +24,7 @@ This project is a real-time health monitoring system using ESP32 and multiple se
 ## 📸 Media
 
 🎥 Demo Video:  
-👉 [Watch Video on YouTube](https://https://youtu.be/Ii8fNT2XxG4?si=7a9ONTLjAG783BIK)
+👉 [Watch Video on YouTube](https://youtu.be/Ii8fNT2XxG4?si=7a9ONTLjAG783BIK)
 
 ## 📄 Documentation
 
