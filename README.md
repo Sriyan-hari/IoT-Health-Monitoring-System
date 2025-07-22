@@ -38,7 +38,8 @@ An IoT-based real-time health monitoring system that continuously tracks and rep
 
 ## 📄 Documentation
 
-📥 [Download Full Project Report (PDF)](./Iot%20based%20health%20monitoring%20system_removed.pdf)
+📥 [Download Project Report (PDF)](./docs/Health_monitoring_using_IoT..pdf)
+
 
 ---
 
