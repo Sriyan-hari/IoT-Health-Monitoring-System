@@ -1,4 +1,4 @@
-# 🚑 IoT-Based Health Monitoring System
+# 🚑  Health Monitoring System Using IoT.
 
 This project is a real-time health monitoring system using ESP32 and multiple sensors that collect physiological data and display it on a local and web interface.
 
@@ -23,8 +23,8 @@ This project is a real-time health monitoring system using ESP32 and multiple se
 
 ## 📸 Media
 
-### 🎥 Demo Video:
-👉 [Watch Video](media/demo_video.mp4)
+🎥 Demo Video:  
+👉 [Watch Video on YouTube](https://https://youtu.be/Ii8fNT2XxG4?si=7a9ONTLjAG783BIK)
 
 ## 📄 Documentation
 
