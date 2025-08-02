@@ -50,7 +50,7 @@ This project provides a **low-cost, scalable, and real-time solution** for perso
 - Real-time data visualization via Wi-Fi
 - Alerts via a buzzer for critical health events
 - Tested on real scenarios (e.g., heart rate response to smoking)
-- Future-ready architecture for cloud/mobile expansion
+- Future-ready architecture for cloud/mobile expansion.
 
 ---
 
